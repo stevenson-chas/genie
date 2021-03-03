@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-03 14:26:16</sys_created_on>
+        <sys_id>30f6612f2f22201035f7578b2799b663</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_570974_genie_wish_item.x_570974_genie.user</sys_name>
+        <sys_package display_value="genie" source="x_570974_genie">97e529232f22201035f7578b2799b692</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="genie">97e529232f22201035f7578b2799b692</sys_scope>
+        <sys_security_acl display_value="x_570974_genie_wish_item">f4f6612f2f22201035f7578b2799b660</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_30f6612f2f22201035f7578b2799b663</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-03 14:26:16</sys_updated_on>
+        <sys_user_role display_value="x_570974_genie.user" name="x_570974_genie.user">c12665232f22201035f7578b2799b65d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
